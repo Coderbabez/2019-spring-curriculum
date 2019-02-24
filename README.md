@@ -2,5 +2,6 @@
 Overview of the 2019 Spring curriculum! 
 
 
-|| Week || Topic || Objective || Lesson || Project || 
+| Week         | Topic        | Objective    | Lesson       | Project      |
+|------------- |------------- |------------- |------------- |------------- |
 | 1 | Intro to HTML | Learn .... | | | 
