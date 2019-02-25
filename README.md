@@ -4,7 +4,7 @@ Overview of the 2019 Spring curriculum!
 
 | Week         | Topic        | Objective    | Homework      |
 |------------- |------------- |------------- | ------------- |
-| 1 | [Intro to HTML](https://github.com/Coderbabez/2019-spring-01-html-intro) | Learn .... | [Cookie Recipe](https://github.com/Coderbabez/2019-spring-01h-recipe-page) | 
+| 1 | [Intro to HTML](https://github.com/Coderbabez/2019-spring-01-html-intro) | Coders will be introduced to basic GitHub functions like forking, cloning and committing. Coders will also understand the basic structure of HTML and learn their first tags | [Cookie Recipe](https://github.com/Coderbabez/2019-spring-01h-recipe-page) | 
 | 2 | [Intro to CSS](https://github.com/Coderbabez/2019-spring-02-css-intro) | Learn .... | [Styled Cookie Recipe](https://github.com/Coderbabez/2019-spring-02h-recipe-page) |  
 | 3 | [CSS Layouts](https://github.com/Coderbabez/2019-spring-03-css-layout) | Learn .... | [Superhero Supply Co](https://github.com/Coderbabez/2019-spring-03h-superhero-supply-shop) |  
 | 4 | [CSS + HTML Review](https://github.com/Coderbabez/2019-spring-04-css-review-project) | Learn .... | [Personal Portfolio](https://github.com/Coderbabez/2019-spring-04h-personal-portfolio) | 
